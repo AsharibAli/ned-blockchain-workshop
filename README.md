@@ -4,7 +4,6 @@
 
 A starter Kit template featuring **Nextjs & Hardhat**, designed for building `dApps`, as well as developing, deploying, and testing Solidity smart contracts on the Ethereum Sepolia Testnet. This starter kit includes pre-installed packages such as `create-next-app`, `hardhat`, `typescript`, `tailwindcss`, `shadcn-ui`, `web3.js`,  and more.
 
-
 ## 📺 Quickstart | Nextjs & Hardhat
 
 ### ⌛️ Clone the repository
@@ -77,7 +76,7 @@ npx hardhat run scripts/deploy.ts --network sepolia
 
 ## **Copy and paste the generated contract JSON ABI folder `contracts` inside the `backend/src/contracts` directory to the `/frontend/` directory.**
 
-## **Copy and paste the deployed contract address [here](https://github.com/asharibali/ned-blockchain-workshop/blob/frontend/app/page.tsx#L37).**
+## **Copy and paste the deployed contract address [here](https://github.com/AsharibAli/ned-blockchain-workshop/blob/main/frontend/app/page.tsx#L37).**
 
 ### 💻 Next.js client
 
@@ -108,6 +107,12 @@ npm run dev
 </table>
 
 <hr>
+
+## 📝 Learning Resources
+
+- [Blockchain Full Course - 6 hours | Blockchain Tutorial | 3 courses in 1](https://www.youtube.com/watch?v=6aF6p2VUORE)
+- [Updraft Multiple Free Courses on Blockchain](https://updraft.cyfrin.io/courses)
+
 
 ## 🤝 Support
 
